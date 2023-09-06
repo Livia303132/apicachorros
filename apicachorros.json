@@ -1,0 +1,107 @@
+[
+    {
+        "nome": "Bella",
+        "raca": "Chihuahua",
+        "idade": "3 anos",
+        "porte": "Pequeno",
+        "img": "https://i0.wp.com/petbabyshow.com.br/wp-content/uploads/2022/01/chihuahua-femea1.webp?resize=618%2C607&ssl=1"
+    },
+    {   
+        "nome": "Max",
+        "raca": "Poodle Toy",
+        "idade": "2 anos",
+        "porte": "Pequeno",
+        "imagem": "https://diariodonordeste.verdesmares.com.br/image/contentid/policy:7.4646347:1654206990/animal.jpg?f=default&$p$f=263f181"
+    },
+    {
+        "nome": "Daisy",
+        "raca": "Dachshund (Salsicha)",
+        "idade": "4 anos",
+        "porte": "Pequeno",
+        "imagem": "https://caes-e-cia.com.br/wp-content/uploads/2021/08/caesecia-492-capa-dachshund-princiapl.jpg"
+    },
+    {
+        "nome": "Milo",
+        "raca": "Shih Tzu",
+        "idade": "5 anos",
+        "porte": "Pequeno",
+        "imagem": "https://tudosobrecachorros.com.br/wp-content/uploads/shih-tzu-apartamento-766x512.jpg"
+    },
+    {
+        "nome": "Lucky",
+        "raca": "Yorkshire Terrier",
+        "idade": "2 anos",
+        "porte": "Pequeno",
+        "imagem": "https://blog-static.petlove.com.br/wp-content/uploads/2022/10/25172047/yorkshire-terrier-brincando-na-grama-Petlove-1.jpg"
+    },
+    {
+        "nome": "Rocky",
+        "raça": "Labrador Retriever",
+        "idade": "4 anos",
+        "porte": "Médio",
+        "imagem": "https://www.petz.com.br/blog/wp-content/uploads/2015/06/shutterstock_126021596.jpg"
+    },
+    {
+        "nome": "Lara",
+        "raça": "Vira Lata",
+        "idade": "2 anos",
+        "porte": "Médio",
+        "imagem": "https://2.bp.blogspot.com/_fgTpxBa8k7A/TA53e8eSZvI/AAAAAAAAAig/UH_xx0yukME/s1600/Femea_Preta_Cybele_jun2010.jpg"
+    },
+    {
+        "nome": "Charlie",
+        "raça": "Beagle",
+        "idade": "6 anos",
+        "porte": "Médio",
+        "imagem": "https://cptstatic.s3.amazonaws.com/imagens/enviadas/materias/materia10369/raca-beagle-2-cursos-cpt.jpg"
+    },
+    {
+        "nome": "Sophie",
+        "raça": "Cocker Spaniel",
+        "idade": "5 anos",
+        "porte": "Médio",
+        "imagem": "https://tudosobrecachorros.com.br/wp-content/uploads/cocker-spaniel.png"
+    },
+    {
+        "nome": "Duke",
+        "raça": "Boxer",
+        "idade": "4 anos",
+        "porte": "Médio",
+        "imagem": "https://cdn.britannica.com/46/233846-050-8D30A43B/Boxer-dog.jpg"
+    },
+    {
+        "nome": "Zeus",
+        "raça": "Pastor Alemão",
+        "idade": "5 anos",
+        "porte": "Grande",
+        "imagem": "https://royalpets.vteximg.com.br/arquivos/ids/177643/pastor-alemao-320x250.jpg?v=637526379643600000"
+    },
+    {
+        "nome": "Bella",
+        "raça": "Golden Retriever",
+        "idade": "6 anos",
+        "porte": "Grande",
+        "imagem": "https://www.canilgoldenpremier.com.br/assets/images/nossos/femeas/g/dig1.jpg"
+    },
+    {
+        "nome": "Max",
+        "raça": "Rottweiler",
+        "idade": "4 anos",
+        "porte": "Grande",
+        "imagem": "https://static.significados.com.br/foto/rottweiler-alemao-cke.jpg"
+    },
+    {
+        "nome": "Luna",
+        "raça": "Dogue Alemão",
+        "idade": "3 anos",
+        "porte": "Grande",
+        "imagem": "https://love.doghero.com.br/wp-content/uploads/2018/03/shutterstock_55480915-e1541428999155.webp"
+    },
+    {
+        "nome": "Rocky",
+        "raça": "São Bernardo",
+        "idade": "4 anos",
+        "porte": "Grande",
+        "imagem": "https://www.infoescola.com/wp-content/uploads/2010/09/s%C3%A3o-bernardo_143925274.jpg"
+    }
+]
